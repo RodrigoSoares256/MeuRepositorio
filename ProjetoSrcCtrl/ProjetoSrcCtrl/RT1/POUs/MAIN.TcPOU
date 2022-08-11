@@ -11,12 +11,14 @@ END_VAR]]></Declaration>
     <Implementation>
       <ST><![CDATA[b1:=FALSE;
 b2:=TRUE;
+c1:=FALSE;
 ]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
       <LineId Id="6" Count="0" />
       <LineId Id="12" Count="0" />
+      <LineId Id="15" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
