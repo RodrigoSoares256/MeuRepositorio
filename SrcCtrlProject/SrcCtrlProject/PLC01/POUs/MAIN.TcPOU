@@ -7,6 +7,7 @@ VAR
 	b2: BOOL;
 	c1: BOOL;
 	c2: BOOL;
+	c3: BOOL;
 
 END_VAR
 ]]></Declaration>
